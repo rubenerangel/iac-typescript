@@ -1,6 +1,6 @@
 # Welcome to your CDK TypeScript project
 
-This is a blank project for CDK development with TypeScript.
+In this repository I've created a Infrasctruce as Code with TypeScript, into the project we have SQS and S3 structure basic.
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
